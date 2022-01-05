@@ -1,0 +1,22 @@
+name: ka.yost
+description: User fork
+version: 1
+author: arlie.gleichner@gmail.com
+workflows:
+  workflows/W1:
+    name: W1
+    description: Really solid info
+    author: arlie.gleichner@gmail.com
+    mode: batch
+    language: scala
+    createdAt: '2022-01-05 05:51:29'
+    datasets:
+      inputs: []
+      outputs: []
+datasets: {}
+schedules:
+  schedules/Velda_Swaniawski:
+    name: Velda_Swaniawski
+    description: Really solid info
+    createdAt: '2022-01-05 05:51:30'
+    author: arlie.gleichner@gmail.com
